@@ -10,3 +10,9 @@ Fonts you need to install:
   * Iosevka Nerd Font
 
 This won't be updated, but feel free to explore the config to learn and fork this to create your own theme!
+
+
+## Screenshot
+
+![Screenshot](screenshot.png)
+
